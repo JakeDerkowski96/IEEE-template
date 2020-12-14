@@ -132,7 +132,7 @@ function make_dir {
 	check_folders sections;
 	touch $abstact $intro $bckgrnd $defines $research $end;
 	cd ..;
-	check images;
+	check_folders images;
 	touch images/msg.txt;
 	echo "put all images here!" >> images/msg.txt;
 	# mkdir downloads;
