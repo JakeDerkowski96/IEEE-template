@@ -1,6 +1,6 @@
 # IEEE Conference paper
 Automate the creation of an organized workspace research paper or journal article
-
+NOT WORKING YET MUCH BUGS
 ---
 
 This was designed to be used wish bash. Windows users, use wsl.
@@ -26,10 +26,12 @@ Some files will be downloaded without permission if they do not already exist in
 Everything you need to change to main it your own is done on the *main.tex* file
 
 -[] Title
+
 -[] Author
+
 ...etc
 
-
+---
 
 ### Compiling
 **main.tex**  🠮 Main file, compile this one
